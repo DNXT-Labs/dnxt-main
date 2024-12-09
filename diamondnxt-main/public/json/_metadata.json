@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "Vitale #1",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/1.jpg",
+    "animation_url": "https://dnxt.app/videos/1.mp4",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "IF"
+      },
+      {
+        "trait_type": "Color",
+        "value": "E"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 4.02
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Pear Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Medium Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "5141303335"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #2",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/2.jpg",
+    "animation_url": "https://dnxt.app/videos/2.mp4",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "F"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 2.13
+      },
+      {
+        "trait_type": "Shape",
+        "value": "EMERALD"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "6451974113"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #3",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/3.jpg",
+    "animation_url": "https://dnxt.app/videos/3.mp4",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "I"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 2.08
+      },
+      {
+        "trait_type": "Shape",
+        "value": "SQUARE EMERALD"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2457974229"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #4",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/4.jpg",
+    "animation_url": "https://dnxt.app/videos/4.mp4",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "E"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.50
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2454974271"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #5",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/5.jpg",
+    "animation_url": "https://dnxt.app/videos/5.mp4",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "D"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.01
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2167223188"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #6",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/6.jpg",
+    "animation_url": "https://dnxt.app/videos/6.mp4",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "F"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 3.02
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Rectangular Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "EXCELLENT"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "EXCELLENT"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "6224847583"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #7",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/7.jpg",
+    "animation_url": "https://dnxt.app/videos/7.mp4",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "I"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 3.01
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "EXCELLENT"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "1226847597"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #8",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/8.jpg",
+    "animation_url": "https://dnxt.app/videos/8.mp4",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "EXCELLENT"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "D"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.22
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "EXCELLENT"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2456974068"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #9",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/9.jpg",
+    "animation_url": "https://dnxt.app/videos/9.mp4",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VVS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Yellow-Green"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.00
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2145665102"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #10",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/10.jpg",
+    "animation_url": "https://dnxt.app/videos/10.mp4",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "G"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 5.09
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2225847563"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #11",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/11.jpg",
+    "animation_url": "https://dnxt.app/videos/11.mp4",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "E"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 3.01
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Rectangular Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2223847584"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #12",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/12.jpg",
+    "animation_url": "https://dnxt.app/videos/12.mp4",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "H"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 5.00
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Very Strong Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2221847049"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #13",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/13.jpg",
+    "animation_url": "https://dnxt.app/videos/13.mp4",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "E"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 2.00
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "7452974094"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #14",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/14.jpg",
+    "animation_url": "https://dnxt.app/videos/14.mp4",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Deep Brownish Greenish Yellow"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.10
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Yellow"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2155259656"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #15",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/15.jpg",
+    "animation_url": "https://dnxt.app/videos/15.mp4",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Deep Blue"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.04
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "14807324"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #16",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/16.jpg",
+    "animation_url": "https://dnxt.app/videos/16.mp4",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Excellent"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "J"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 9.11
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Excellent"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Faint"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Excellent"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "6223847111"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #17",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/17.jpg",
+    "animation_url": "https://dnxt.app/videos/17.mp4",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Deep Brown"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 0.96
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "HRD"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "15030810003"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #18",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/18.jpg",
+    "animation_url": "https://dnxt.app/videos/18.mp4",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Purplish Pink"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.01
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Heart Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "5191363976"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #19",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/19.jpg",
+    "animation_url": "https://dnxt.app/videos/19.mp4",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Intense Yellow-Orange"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 0.99
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Medium Yellow"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2166762832"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #20",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/20.jpg",
+    "animation_url": "https://dnxt.app/videos/20.mp4",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "I1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Brownish Reddish Orange"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.04
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Cushion Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2135168905"
+      }   
+    ]
+  },
+  {
+    "name": "Vitale #21",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/21.jpg",
+    "animation_url": "https://dnxt.app/videos/21.mp4",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "None"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Orangy Pink"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.00
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " None"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "None"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "1162509310"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #22",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/22.jpg",
+    "animation_url": "https://dnxt.app/videos/22.mp4",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "None"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Grayish Pinkish Purple"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.03
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " None"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "None"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "14732536"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #23",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/23.jpg",
+    "animation_url": "https://dnxt.app/videos/23.mp4",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "None"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Deep Grayish Yellowish Green"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.10
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " None"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "None"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "5121800600"
+      }
+    ]
+  },
+  {
+    "name": "Vitale #24",
+    "description": "Heritage Collection: Combining tradition with technology",
+    "image": "https://dnxt.app/images/24.jpg",
+    "animation_url": "https://dnxt.app/videos/24.mp4",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "None"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.06
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": " None"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "None"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "HRD"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "15030810002"
+      }
+    ]
+  }
+]

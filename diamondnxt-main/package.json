@@ -1,0 +1,76 @@
+{
+  "name": "diamondnxt-dapp",
+  "version": "0.1.0",
+  "homepage": "https://dnxt.app/",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/react": "^1.8.8",
+    "@coreui/react": "^4.10.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@metamask/jazzicon": "^2.0.0",
+    "@react-icons/all-files": "4.1.0",
+    "@sumsub/websdk": "^2.0.1",
+    "@sumsub/websdk-react": "^2.0.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@walletconnect/web3-provider": "^1.6.6",
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "framer-motion": "^4.0.0",
+    "react": "^17.0.2",
+    "react-alice-carousel": "^2.5.1",
+    "react-bootstrap-modal": "^4.2.0",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.11.0",
+    "react-images-uploading": "^3.1.7",
+    "react-jss": "^10.8.1",
+    "react-modal": "^3.14.4",
+    "react-pro-sidebar": "0.6.0",
+    "react-responsive-sidebar": "0.1.16",
+    "react-scripts": "^4.0.3",
+    "react-select": "^5.1.0",
+    "react-slider": "^2.0.6",
+    "typescript": "^4.4.4",
+    "web-vitals": "^1.1.2",
+    "web3": "^1.3.3",
+    "web3modal": "^1.9.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "server": "npm run build && node --max_old_space_size=2560 server/server.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "react-router-dom": "^6.4.2"
+  }
+}

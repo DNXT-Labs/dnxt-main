@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #28",
+    "description": "Your 0.77 carat Fancy Grey diamond is very rare, with only 1 in 2,000,000 diamonds having similar characteristics. The grey colour of your diamond emanates from a significant amount of hydrogen and boron that was trapped inside the crystal during the formation process. Like a moonbeam captured in stone, this understated and elegant hue evokes feelings of calmness and balance. A mere 1 to 2 similar diamonds enter the market yearly. ",
+    "image": "https://dnxt.app/images/28.jpg",
+    "animation_url": "https://dnxt.app/videos/28.mp4",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Natural Fancy Gray"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 0.77
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Round Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "1106266241"
+      }
+    ]
+  }

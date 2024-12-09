@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #36",
+    "description": "Your 0.50 carat Fancy Intense Bluish Green diamond is very rare, with only 1 in 2,000,000 diamonds having similar characteristics. Underground radiation, paired with extreme heat and pressure lasting millions of years, altered the atomic structure of your diamond making it able to absorb light from the red to yellow spectrum. The outcome is a rare combination of green and blue colours. A dance of azure skies and lush meadows, this unique hue is often associated with qualities like serenity, balance, and renewal. A mere 1 to 2 similar diamonds enter the market yearly.",
+    "image": "https://dnxt.app/images/36.jpg",
+    "animation_url": "https://dnxt.app/videos/36.mp4",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Intense Bluish Green"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 0.50
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Cushion Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Medium Blue"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "2145967765"
+      }
+    ]
+  }

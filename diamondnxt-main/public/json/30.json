@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #30",
+    "description": "Your 4.52 carat Fancy Greyish Yellow diamond is very unique, with a subtle and elegant combination of hues. The unique coloration of your diamond is believed to result from a combination of natural radiation exposure, the presence of nitrogen atoms, and other trace elements during the formation process. A symbol of enduring beauty, the combination of grey and yellow hues in your diamond may represent a balance between stability and warmth.",
+    "image": "https://dnxt.app/images/30.jpg",
+    "animation_url": "https://dnxt.app/videos/30.mp4",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Greyish Yellow Natural Color"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 4.52
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Cushion"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "HRD"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "200000114685"
+      }
+    ]
+  }

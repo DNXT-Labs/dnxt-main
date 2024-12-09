@@ -1,0 +1,111 @@
+/* Redeem.css */
+
+.redeem-container {
+    padding: 16px;
+    background-color: var(--color-8);
+    border-radius: 16px;
+    max-width: 512px;
+    margin: 64px auto; /* Center the card horizontally and add margin on top */
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .centered-content {
+    text-align: center;
+  }
+  
+  .section-title {
+    color: var(--color-5);
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .section-description {
+    color: var(--white);
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+  
+  .balance-info {
+    color: var(--white);
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  
+  .balance-info p {
+    color: var(--color-7);
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure this is higher than other elements */
+}
+
+.modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: -1; /* Place behind modal content */
+}
+
+.modal-content {
+    background: var(--color-9);
+    color: var(--color-1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%; /* Adjust as needed */
+    max-width: 500px; /* Adjust as needed */
+    z-index: 1; /* Ensure this is higher than the overlay */
+}
+
+.delivery-options-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.delivery-option, .pickup-option {
+  margin: 10px 10px;
+}
+
+.delivery-tabs {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.delivery-content, .pickup-content {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid var(--color-1);
+  border-radius: 8px;
+  background-color: var(--color-9);
+  margin: 8px;
+}
+
+p {
+  margin-bottom: 15px;
+  font-size: 16px;
+  line-height: 1.5;
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #22",
+  "description": "Your 0.99 carat Fancy Intense Yellow-Orange diamond is rare, with only 1 in 400,000 diamonds with similar characteristics. The orange and yellow hues of your diamond attest the presence of nitrogen atoms that absorb blue light and create a yellow tint, combined with red luminescence. A flame captured in crystalline form, this unique colour is associated with warmth and vitality. A mere 4 to 7 similar diamonds enter the market yearly. ",
+  "image": "https://dnxt.app/images/22.jpg",
+  "animation_url": "https://dnxt.app/videos/22.mp4",
+  "edition": 22,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "SI2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Fancy Intense Yellow-Orange"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 0.99
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Oval Modified Brilliant"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "Medium Yellow"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "2166762832"
+    }
+  ]
+}

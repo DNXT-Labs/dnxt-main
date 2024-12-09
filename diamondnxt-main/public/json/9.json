@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #9",
+  "description": "Your 2.00 carat emerald cut natural diamond is a remarkable gemstone with specific attributes that contribute to its beauty and value. Its VS2 clarity, very small inclusions, is combined with an exceptional white E colour, resulting in a captivating sparkle accentuated by its precise cut. The step-cut faceting style of the emerald cut creates a hall-of-mirrors effect, producing flashes of light and emphasising the clarity of your diamond. Impeccably graded and crafted, this diamond promises timeless beauty and investment potential.",
+  "image": "https://dnxt.app/images/9.jpg",
+  "animation_url": "https://dnxt.app/videos/9.mp4",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VS2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "E"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 2.00
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "7452974094"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #33",
+    "description": "Your 1.00 carat Fancy Yellowish Green diamond is very rare, with only 1 in 800,000 diamonds having similar characteristics. The yellow tone of your diamond is attributed to the presence of nitrogen atoms that absorb blue light in the visible spectrum, while the green is caused by the absorption of red light waves. Resembling sunlit leaves kissed by morning dew, this unique colour is often associated with qualities like vitality, freshness, and harmony. A mere 2 to 4 similar diamonds enter the market yearly.",
+    "image": "https://dnxt.app/images/33.jpg",
+    "animation_url": "https://dnxt.app/videos/33.mp4",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "VS2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Yellow-Green"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.00
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Strong Green"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "1337480456"
+      }
+    ]
+  }

@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #7",
+  "description": "Your 3.02 carat cut-cornered rectangular modified brilliant cut natural diamond is a remarkable gemstone with specific attributes that contribute to its beauty and value. Its VVS2 clarity, very very small inclusions, is combined with a rare white F colour, resulting in a captivating sparkle accentuated by its precise cut. The cut of your diamond is a variant of the “princess cut” and is characterised by a brilliant-cut faceting style, creating exceptional sparkle and fire. Impeccably graded and crafted, this diamond promises timeless beauty and investment potential.",
+  "image": "https://dnxt.app/images/7.jpg",
+  "animation_url": "https://dnxt.app/videos/7.mp4",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VVS2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "F"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 3.02
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Cut-Cornered Rectangular Modified Brilliant"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Excellent"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Excellent"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "6224847583"
+    }
+  ]
+}

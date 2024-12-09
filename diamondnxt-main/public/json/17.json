@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #17",
+  "description": "Your 0.98 carat Fancy Intense Orange-Yellow diamond is rare, with only 1 in 330,000 diamonds having similar characteristics. The unique colour of your diamond is due to the presence of nitrogen atoms that absorb blue light and create a yellow hue, combined with red luminescence.  Like a radiant summer sunset, these warm, vibrant hues are associated with qualities like energy, creativity, and positivity. A mere 4 to 8 similar diamonds enter the market yearly.",
+  "image": "https://dnxt.app/images/17.jpg",
+  "animation_url": "https://dnxt.app/videos/17.mp4",
+  "edition": 17,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "I1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Natural Fancy Green-Yellow"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 0.98
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Oval Modified Brilliant"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "Strong Yellow"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "1156826415"
+    }
+  ]
+}

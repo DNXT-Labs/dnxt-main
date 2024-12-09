@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #35",
+    "description": "Your 1.03 carat Fancy Yellow diamond is very special, with its unique warm and bright tint. The natural yellow colour of your diamond is attributed to a significant concentration of nitrogen atoms within its structure, resulting in the absorption of blue light. Like a ray of sunshine, its warm and vibrant hue is a symbol of optimism, vitality, and a zest for life.",
+    "image": "https://dnxt.app/images/35.jpg",
+    "animation_url": "https://dnxt.app/videos/35.mp4",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Yellow Natural Color"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.03
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": ""
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Excellent"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "HRD"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "16014153006"
+      }
+    ]
+  }

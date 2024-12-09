@@ -1,0 +1,413 @@
+
+
+header {
+  display: flex;
+  position: fixed;
+  margin-left: 0;
+  background: transparent;
+  height: 64px;
+  min-height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  width: 100%;
+  padding: 0 20px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.Menu {
+  position: fixed;
+  top: 0px; /* Adjust the top position as needed */
+  left: 0px; /* Adjust the left position as needed */
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-7);
+  align-items: flex-start;
+  max-height: 90vh; /* prevent items from going off the screen */
+  overflow-y: auto; /* enable scrolling if items exceed max-height */
+  margin-top: auto;
+  border-radius: 16px;
+}
+
+.input {
+  padding: 16px;
+  border-radius: 16px;
+  display: flex;
+  margin: 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.menuItem {
+  border-radius: 13px;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  padding: 12px 24px;
+  text-decoration: none;
+  background-color: var(--color-8);
+}
+
+.menuItem:hover {
+  background-color: var(--color-6);
+  border-radius: 16px;
+  color: #ffffff;
+  
+}
+
+
+@media screen and (min-width: 600px) {
+  .Menu {
+    flex-direction: row;
+    align-items: start;
+    max-height: 90vh;
+    overflow-y: auto;
+    margin-top: auto;
+    padding: 10px; /* Adjust padding as needed */
+  }
+
+  .Menu .menuItem {
+    margin-top: 0;
+    margin-right: 15px;
+    padding: 8px 32px;
+    border-radius: 16px;
+    color: #fff;
+    background-color: var(--color-8); /* Set the background color to match UserInfo */
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .Menu .menuItem:hover {
+    background-color: var(--color-7);
+  }
+
+
+
+  .hamburger {
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+
+
+}
+
+.wallet-status a {
+  color: #ea4c4c;
+  margin-left: 8px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.status {
+  background: #ec3f3f;
+  border-radius: 50%;
+  height: 10px;
+  margin-left: 8px;
+  margin-right: 8px;
+  position: relative;
+  width: 10px;
+  display: table-cell;
+}
+
+.status-connected {
+  background: #00ff00;
+  border-radius: 50%;
+  height: 10px;
+  margin-right: 8px;
+  margin-left: 8px;
+  position: relative;
+  width: 10px;
+}
+
+
+.network {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  padding: 6px 16px;
+  background-color: var(--color-8);
+  border-radius: 16px;
+  font-size: 14px;
+  line-height: 21px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.network img {
+  width: 20px;
+  height: 20px;
+  padding: 14px;
+}
+
+.network svg {
+  width: 20px;
+  height: 20px;
+  margin-right: 14px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -2px;
+}
+
+.network:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.transitionFade {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  padding: 10px; /* Adjust padding as needed */
+}
+
+.transitionFade.transitionFadeOpen {
+  opacity: 1;
+}
+
+.transitionFade.transitionFadeClosed {
+  opacity: 0;
+}
+
+
+.network.connected {
+  justify-content: flex-start;
+}
+
+.network.connected:before {
+  display: none;
+}
+
+.network .item {
+  background: #616161;
+  border-radius: 16px;
+  color: #fff;
+}
+
+.network .item:hover {
+  background: var(--dark-blue);
+  color: #fff;
+}
+
+
+.networkSelect {
+  position: absolute;
+  right: 0;
+  background-color: var(--color-8);
+  border-radius: 16px;
+  font-size: 14px;
+  line-height: 21px;
+  padding: 6px 16px;
+  cursor: pointer;
+  z-index: 2; /* Ensure this is above other modal content */
+  color: #fff;
+}
+
+.networkSelect .item {
+  background: var(--color-8);
+  border-radius: 16px;
+  padding: 8px;
+  margin-bottom: 4px;
+}
+
+.networkSelect .item:last-child {
+  margin-bottom: 0;
+}
+
+.networkSelect .item:hover {
+  background: var(--color-7);
+}
+
+/* userInfo.css */
+.menuBar {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 64px;
+  width: 100%;
+  padding: 6px 16px;
+  background-color: var(--color-7);
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+
+  font-size: 14px;
+  line-height: 21px;
+  cursor: pointer;
+  color: #fff;
+}
+
+#userInfo {
+  position: relative; /* Ensure the user info container is relative */
+  z-index: 1111;
+}
+
+.modalOverlay {
+  position: absolute; /* Absolute positioning */
+  bottom: 100%; /* Aligns the bottom of the modal with the top of the menuBar */
+  min-width: 190px;
+  width: fit-content;
+  height:fit-content;
+  background: var(--color-7);
+  opacity: 0.97;
+  display: flex;
+  flex-direction: column; /* For better control over modal content layout */
+  justify-content: center;
+  padding: 20px 0; /* Add some padding at the top and bottom */
+  border-radius: 8px;
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+}
+
+.modalContent {
+  background: var(--color-7);
+  margin: 0 auto; /* Center the content */
+  padding: 20px;
+  border-radius: 16px; /* This gives rounded corners to the content inside the modal */
+  max-width: 90%; /* Prevent the modal content from being too wide */
+}
+
+
+#userInfo {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 64px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 768px) { /* Assuming 768px is your breakpoint for medium devices */
+  #userInfo {
+      /* Styles for smaller screens */
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      color: rgb(255, 255, 255);
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  #userInfo .address {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .user-address {
+      display: none;
+  }
+}
+
+
+.balance-wr {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 6px 16px;
+
+}
+
+@keyframes status {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.8;
+  }
+
+  100% {
+    transform: translate(-50%, -50%) scale(2.5);
+    opacity: 0;
+  }
+}
+
+.user-address-label {
+  font-weight: bold;
+  
+}
+
+.user-address-value {
+  padding: 6px 16px;
+  color: var(--color-6)
+
+}
+
+ a:visited { 
+  text-decoration: none; 
+  color: var(--color-5); 
+ }
+
+@media (max-width: 768px) {
+  #userInfo .user-address-value, .user-address-label {
+    display: none;
+  }
+}
+
+.balances-label {
+  font-weight: bold;
+}
+
+.balances-value {
+  padding: 6px 16px;
+
+}
+
+.logoeth {
+  margin-top: 10px;
+}
+
+
+.status:after {
+  animation: status 2s ease-in-out infinite forwards;
+  background: #ec3f3f;
+  border-radius: 50%;
+  content: "";
+  opacity: 0.8;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100%;
+  width: 100%;
+}
+
+.status-connected:after {
+  animation: status 2s ease-in-out infinite forwards;
+  background: #00ff00;
+  border-radius: 50%;
+  content: "";
+  opacity: 0.8;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100%;
+  width: 100%;
+}
+
+
+
+

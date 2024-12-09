@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #24",
+  "description": "Your 1.06 carat Black diamond is rare, possessing a mysterious allure and distinct characteristics that set it apart in the world of gemstones. Black diamonds are believed to have extraterrestrial origins, with some theories suggesting they may have originated from a meteoric impact. Others propose that the extreme conditions within the Earth's mantle contributed to their formation. Black diamonds are associated with strength, power, and elegance. They are often chosen as a symbol of resilience and individuality.",
+  "image": "https://dnxt.app/images/24.jpg",
+  "animation_url": "https://dnxt.app/videos/24.mp4",
+  "edition": 24,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": ""
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black Color"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 1.06
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": " "
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": ""
+    },
+    {
+      "trait_type": "Polish",
+      "value": ""
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "HRD"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "15030810002"
+    }
+  ]
+}

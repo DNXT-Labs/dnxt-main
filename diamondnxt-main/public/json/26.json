@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #26",
+    "description": "Your 1.16 carat Fancy Deep Orange diamond is very rare, with a rich and intense coloration. The orange tint in your diamond is caused by the presence of nitrogen during the formation process, resulting in the total absorption of blue light waves. A vibrant flame captured in crystalline form, the intense orange hue in your diamond may symbolise warmth, energy and creativity. ",
+    "image": "https://dnxt.app/images/26.jpg",
+    "animation_url": "https://dnxt.app/videos/26.mp4",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "SI2"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Natural Fancy Deep Orange"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 1.16
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Oval"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "Slight"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "IGI"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "M1H52734"
+      }
+    ]
+  }

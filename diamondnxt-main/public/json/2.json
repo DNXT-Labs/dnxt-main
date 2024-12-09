@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #2",
+  "description": "Your 2.13 carat emerald cut natural diamond is a remarkable gemstone with specific attributes that contribute to its beauty and value. Its VVS1 clarity, very very small inclusions, is combined with a rare white F colour, resulting in a captivating sparkle accentuated by a precise cut. Its The step-cut faceting style of the emerald cut creates a hall-of-mirrors effect, producing flashes of light and emphasising the clarity of your diamond. Impeccably graded and crafted, this diamond promises timeless beauty and investment potential.",
+  "image": "https://dnxt.app/images/2.jpg",
+  "animation_url": "https://dnxt.app/videos/2.mp4",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VVS1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "F"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 2.13
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Emerald Cut"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "6451974113"
+    }
+  ]
+}

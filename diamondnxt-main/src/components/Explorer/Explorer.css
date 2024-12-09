@@ -1,0 +1,86 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .data {
+    height: 675px;
+  }
+  .home {
+    padding: 10px;
+    /* margin:10px; */
+    list-style: none;
+
+  
+  }
+  .home :hover {
+    background-color: var(--color-9);
+    border-radius: 6px;
+  }
+  .crm {
+    /* padding: 10px; */
+    /* margin:10px; */
+      list-style: none;
+
+  }
+  .icon {
+    margin-left: 200px;
+    color: yellow;
+  }
+
+  /* Container holding your dropdown, this should be relative */
+.dropdown-container {
+  position: relative;
+  /* other styles as needed */
+}
+
+/* Styles for the dropdown list */
+.listbox-options {
+  position: absolute;
+  top: 100%; /* Positioning the dropdown right below the container */
+  z-index: 1000; /* High z-index to ensure it is above other elements */
+  max-height: 333px;
+  overflow-y: auto;
+  background-color: var(--white);
+  color: black;
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  padding: 12px; /* Adjust padding as needed */
+  width: max-content; /* Makes the width fit the longest text item */
+  min-width: 160px; /* Optional: Set a minimum width to ensure usability */
+}
+
+/* Adjusting the individual option styles */
+.custom-option {
+  cursor: default;
+  position: relative;
+  padding: 8px 10px; /* Increased padding for better spacing */
+  white-space: nowrap; /* Prevents text from wrapping to the next line */
+}
+
+
+.custom-active {
+  color: var(--color-1);
+  background-color: var(--color-7);
+  border-radius: 12px;
+  padding: 8px 10px; /* Increased padding for better spacing */
+
+}
+
+.custom-inactive {
+  color: var(--color-1);
+  background-color: transparent;
+  border-radius: 12px;
+}
+/* CSS for the active listbox option */
+.listbox-option-active {
+  background-color: white; /* Set background color to white for active option */
+  color: black; /* Set text color that ensures good readability on a white background */
+  /* Add any other styling properties you need, like padding, font-weight, etc. */
+}
+
+.sort-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

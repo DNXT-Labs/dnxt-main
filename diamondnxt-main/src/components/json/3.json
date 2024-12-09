@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #3",
+  "description": "Heritage Collection: Combining tradition with technology",
+  "image": "https://dnxt.app/images/3.jpg",
+  "animation_url": "https://dnxt.app/videos/3.mp4",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VVS1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "I"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 2.08
+    },
+    {
+      "trait_type": "Shape",
+      "value": "SQUARE EMERALD"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "2457974229"
+    }
+  ]
+}

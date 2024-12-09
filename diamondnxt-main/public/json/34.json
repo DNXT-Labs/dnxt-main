@@ -1,0 +1,49 @@
+{
+    "name": "Vitale #34",
+    "description": "Your 0.40 carat Fancy Blue Green diamond is extremely rare, with 1 in 9,000,000 diamonds having similar characteristics. The exceptional blend of hues of your diamond is the outcome of natural radiation exposure over an extended period of time, under very high temperatures. The so altered atomic structure is able to absorb the light from the red to yellow spectrum, resulting in its green and blue colour. A dance of azure waves and emerald depths, this aqua tint evokes feelings of calmness, tranquility, and a connection to nature. A similar diamond enters the market once every 5 to 6 years.",
+    "image": "https://dnxt.app/images/34.jpg",
+    "animation_url": "https://dnxt.app/videos/34.mp4",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Cut",
+        "value": ""
+      },
+      {
+        "trait_type": "Clarity",
+        "value": "I1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Fancy Blue-Green"
+      },
+      {
+        "trait_type": "Carat Weight",
+        "value": 0.40
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Pear Modified Brilliant"
+      },
+      {
+        "trait_type": "Symmetry",
+        "value": "Good"
+      },
+      {
+        "trait_type": "Fluorescence",
+        "value": "None"
+      },
+      {
+        "trait_type": "Polish",
+        "value": "Very Good"
+      },
+      {
+        "trait_type": "Certificate Issuer",
+        "value": "GIA"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "6281775216"
+      }
+    ]
+  }

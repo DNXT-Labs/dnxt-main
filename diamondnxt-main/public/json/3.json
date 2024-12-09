@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #3",
+  "description": "Your 2.08 carat square emerald cut diamond is a remarkable gemstone with specific attributes that contribute to its beauty and value. Its VVS1 clarity, very very small inclusions, is combined with a slightly tinted white I colour, resulting in a captivating sparkle accentuated by its precise cut. The square emerald cut of your diamond combines the elegance of an emerald cut with a square shape. Impeccably graded and crafted, this diamond promises timeless beauty and investment potential.",
+  "image": "https://dnxt.app/images/3.jpg",
+  "animation_url": "https://dnxt.app/videos/3.mp4",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VVS1"
+    },
+    {
+      "trait_type": "Color",
+      "value": "I"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 2.08
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Squear Emerald Cut"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "None"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "2457974229"
+    }
+  ]
+}

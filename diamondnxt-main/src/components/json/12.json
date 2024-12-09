@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #12",
+  "description": "Heritage Collection: Combining tradition with technology",
+  "image": "https://dnxt.app/images/12.jpg",
+  "animation_url": "https://dnxt.app/videos/12.mp4",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VS2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "H"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 5.00
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Round Brilliant"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "Very Strong Blue"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Very Good"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "2221847049"
+    }
+  ]
+}

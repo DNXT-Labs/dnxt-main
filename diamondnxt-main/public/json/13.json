@@ -1,0 +1,49 @@
+{
+  "name": "Vitale #13",
+  "description": "Your 1.01 carat Fancy Yellow diamond is very special, with only 1 in 11.000 diamonds having similar characteristics. The natural yellow colour of your diamond is attributed to a significant concentration of nitrogen atoms within its structure, resulting in the absorption of blue light. Its warm and vibrant hue is a symbol of optimism, vitality, and a zest for life. Only 150 to 200 similar diamonds enter the market yearly.",
+  "image": "https://dnxt.app/images/13.jpg",
+  "animation_url": "https://dnxt.app/videos/13.mp4",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Cut",
+      "value": ""
+    },
+    {
+      "trait_type": "Clarity",
+      "value": "VS2"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Natural Fancy Yellow Even"
+    },
+    {
+      "trait_type": "Carat Weight",
+      "value": 1.01
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Oval Modified Brilliant"
+    },
+    {
+      "trait_type": "Symmetry",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Fluorescence",
+      "value": "Faint"
+    },
+    {
+      "trait_type": "Polish",
+      "value": "Excellent"
+    },
+    {
+      "trait_type": "Certificate Issuer",
+      "value": "GIA"
+    },
+    {
+      "trait_type": "Certificate Number",
+      "value": "1159013092"
+    }
+  ]
+}

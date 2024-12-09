@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    display: flex;
+    padding-top: 50px; /* Padding equal to the height of the tabs, so content isn't overlapped */
+}
+
+
+/* styles.css */
+
+.topbar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-wrap: wrap;
+    padding: 10px 20px;
+    background-color: var(--color-9);
+    color: white;
+    z-index: 1001; /* to ensure it stays on top */
+    margin-left: 300px; /* Adjust based on your sidebar's width */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;  /* Adjust the gap to your liking */
+}
+
+.topbar-item {
+    margin-right: 15px; /* consistent spacing instead of 'gap' */
+}
+
+.buttons-container {
+    display: flex;
+    gap: 10px; /* space between the buttons */
+    align-items: center;
+    border-radius: 8px;
+    background-color: var(--color-7);
+}
+
+.topbar-search {
+    flex-grow: 1; /* allows this element to take up the remaining space */
+    margin: 0 15px;
+}
+
+.topbar-tabs {
+    display: flex;
+    gap: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 979px) {
+    .topbar-container {
+        flex-direction: column;
+        margin-left: 64px; /* Adjust based on your sidebar's responsive width */
+    }
+
+    .topbar-search {
+        width: 100%; /* full width in a vertical layout */
+        margin-bottom: 15px; /* space between items in a column */
+    }
+}
+
+.explorer-container {
+    margin-left: 210px; /* space for the sidebar */
+    margin-top: 64px; /* space for the topbar, adjust as needed */
+    z-index: 1000; /* to ensure it stays on top */
+
+}
+
+
+
+/* Style for the filter sections */
+.filter-section {
+    border-bottom: 1px solid #ddd; /* Horizontal line */
+}
+
+
+/* Explorer.css */
+.footer-content {
+    padding: 20px;
+    margin-bottom: 80px;
+    color: white;
+}
+
+.market-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Adjust based on your preference */
+    margin-top: 20px; /* Optional: for extra space between text and logos */
+    padding-bottom: 20px;
+}
+
+.market-logo {
+    width: 32px; /* Or the appropriate size for your design */
+    height: auto; /* Maintain aspect ratio */
+}
+
+
+
+.trait-toggle {
+    cursor: pointer;
+}
+
+.trait-detail {
+    margin-left: 20px;
+}
+
+.list-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 100%;
+}
+
+.list-item {
+    display: flex;
+    grid-template-columns: 
+        minmax(100px, 1fr)  /* Image cell */
+        2fr  /* Name cell */
+        1fr 1fr 1fr 1fr 1fr 2fr;  /* Other attribute cells */
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+
+/* Remove the right border for the last cell */
+.list-item .list-cell:last-child {
+    border-right: none;
+}
+
+.diamond-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.list-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-right: 1px solid #e0e0e0; /* This creates the separator */
+    flex: 1; /* This ensures equal width for all cells */
+}
+
+
+.diamond-info {
+    flex: 1;
+    display: grid;
+    gap: 5px;  /* Space between each line of info */
+}
+
+.diamond-info h5 {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+
+
+.tab {
+    display: flex;
+    align-items: center;  /* vertically aligns items in the center */
+    justify-content: center;  /* horizontally aligns items in the center */
+    gap: 5px;  /* spacing between SVG and text */
+    padding: 10px 20px;  /* adjust padding as needed */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 8px;
+}
+
+.tab:hover {
+    background-color: #ddd;  /* adjust hover color as needed */
+}
+
+.tab-icon {
+    width: 24px;  /* adjust SVG size as needed */
+    height: 24px;
+}
+
+
+.tab.active {
+    background-color: var(--color-4);
+    color: var(--color-9);
+}
+
+.tab svg {
+    width: 24px;
+    height: 24px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjust 250px to your preferred width */
+    gap: 20px; /* Space between grid items */
+    padding: 20px;
+}
+
+.grid-item {
+    display: grid;
+    gap: 5px; /* Space between lines inside an item */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+
+/* Additional styles for the item attributes for aesthetics */
+.item-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Adjust other styles for 'item-price', 'item-offer', etc. as needed */
+
+.horizontal-slider {
+    width: 100%;
+    height: 25px;
+}
+
+.thumb {
+    height: 25px;
+    width: 25px;
+    background-color: var(--color-6);
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+.track {
+    top: 10px;
+    bottom: 10px;
+    background: #ddd;
+}

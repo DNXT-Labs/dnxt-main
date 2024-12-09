@@ -1,0 +1,220 @@
+.mint-container {
+  padding: 16px;
+  background-color: var(--color-8);
+  color: var(--color-2);
+  border-radius: 16px;
+  max-width: 512px;
+  margin: 64px auto; /* Center the card horizontally and add margin on top */
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.request-container {
+  padding: 16px;
+  background-color: var(--color-8);
+  color: var(--color-2);
+  border-radius: 16px;
+  max-width: 512px;
+  margin: 64px auto; /* Center the card horizontally and add margin on top */
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* A bit of spacing between list items */
+.request-container ul li {
+  margin-bottom: 10px;
+  text-decoration: none;
+    list-style-type: none; /* This removes the bullet points */
+    padding: 0; /* This removes any default padding */
+    margin: 0; /* This removes any default margin */
+  }
+  
+
+
+.certificate-container,
+.listbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  background-color: var(--color-8);
+}
+
+.label {
+  margin-right: 15px;
+  font-weight: bold;
+  color: var(--white);
+  padding: 5px 0;
+}
+
+/* Container holding your dropdown, this should be relative */
+.dropdown-container {
+  position: relative;
+  /* other styles as needed */
+}
+
+/* Styles for the dropdown list */
+.listbox-options {
+  position: absolute;
+  top: 100%; /* Positioning the dropdown right below the container */
+  z-index: 1000; /* High z-index to ensure it is above other elements */
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: var(--white);
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  padding: 12px; /* Adjust padding as needed */
+  width: max-content; /* Makes the width fit the longest text item */
+  min-width: 160px; /* Optional: Set a minimum width to ensure usability */
+}
+
+/* Adjusting the individual option styles */
+.custom-option {
+  cursor: default;
+  position: relative;
+  padding: 8px 10px; /* Increased padding for better spacing */
+  white-space: nowrap; /* Prevents text from wrapping to the next line */
+}
+
+
+.custom-active {
+  color: #000000;
+  background-color: var(--white);
+  border-radius: 5px;
+  padding: 8px 10px; /* Increased padding for better spacing */
+
+}
+
+.custom-inactive {
+  color: var(--white);
+  background-color: transparent;
+  border-radius: 16px;
+}
+
+.certificate-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.certificate-container input {
+  padding: 10px 15px;
+  color: var(--white);
+  background-color: var(--white);
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.certificate-container input:hover {
+  background-color: var(--soft-blue);
+}
+
+.certificate-container input:focus {
+  background-color: var(--soft-blue);
+  box-shadow: 0 0 0 2px var(--texthover);
+  outline: none;
+}
+
+.missingParameters {
+  color: white;
+  background-color: #f56565;
+  font-size: 1em;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.modal {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.modal-overlay {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0, 0, 0, 0.5);
+z-index: 9998;
+}
+
+.modal-content {
+background: var(--color-8);
+color: var(--color-3);
+
+padding: 20px;
+border-radius: 16px;
+max-width: 500px;
+width: 90%;
+z-index: 9999;
+position: relative;
+box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.modal-content p {
+  /* Styles for the text before the colon */
+  color: var(--color-3);
+   margin: 5px 0;
+}
+
+.modal-content .value {
+  /* Styles for the text after the colon (i.e., the values) */
+  color: #666;
+  font-weight: bold;
+  background-color: var(--texthover);
+}
+
+
+/* CSS */
+.mint {
+  background-color: #111827;
+  border: 1px solid transparent;
+  border-radius: .75rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex: 0 0 auto;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding: .75rem 1.2rem;
+  text-align: center;
+  text-decoration: none #6B7280 solid;
+  text-decoration-thickness: auto;
+  transition-duration: .2s;
+  transition-property: background-color,border-color,color,fill,stroke;
+  transition-timing-function: cubic-bezier(.4, 0, 0.2, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+}
+
+.mint:hover {
+  background-color: #374151;
+}
+
+.mint:focus {
+  box-shadow: none;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+@media (min-width: 768px) {
+  .mint {
+    padding: .75rem 1.5rem;
+  }
+}
